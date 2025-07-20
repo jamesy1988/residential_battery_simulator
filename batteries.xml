@@ -1,0 +1,23 @@
+<batteries>
+    <battery>
+        <name>PowerVault</name>
+        <model>PV-5</model>
+        <power>5.0</power>
+        <energy>10.0</energy>
+        <current>20.0</current>
+    </battery>
+    <battery>
+        <name>Tesla Powerwall</name>
+        <model>PW-2</model>
+        <power>5.0</power>
+        <energy>13.5</energy>
+        <current>15.0</current>
+    </battery>
+    <battery>
+        <name>SonnenBatterie</name>
+        <model>Sonnen-eco</model>
+        <power>3.3</power>
+        <energy>10.0</energy>
+        <current>14.5</current>
+    </battery>
+</batteries>
